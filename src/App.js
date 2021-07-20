@@ -5,7 +5,7 @@ function App() {
     <>
       <div className="background">
 
-        <p className="text top bottom">Comming soon</p>
+        <p className="text top bottom">Coming soon</p>
         <p className="text">Branding & Design</p>
         <p className="text bottom">Consultancy</p>
         <p className="text">+34 666 666 666</p>
