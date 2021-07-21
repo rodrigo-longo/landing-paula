@@ -2,12 +2,8 @@ html,
 body {
     margin: 0;
     padding: 0;
-}
-
-.background {
-    width: 100vw;
-    height: 100vh;
     background-color: rgb(29, 28, 29);
+
 }
 p {
     margin: 0;
@@ -18,10 +14,16 @@ p {
     color: white;
     font-family: Helvetica;
     padding-left: 20px;
+
 }
 .bottom {
     padding-bottom: 20px;
 }
 .top {
     padding-top: 20px;
+}
+@media (min-width: 360px) and (max-width: 1024px){
+    .text{
+        font-size: 50px;
+    }
 }
